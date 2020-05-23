@@ -1,10 +1,6 @@
 # Client-Server-VkMessageParse
 
-![MoreCmds](https://i.imgur.com/nKwswHg.jpg)
-
-# Project Title
-
-Client-Server-VkMessageParse
+A tool for access and parsing offline and messages, with transmission to the server and after - scattering on users.
 
 ## Getting Started
 
@@ -71,3 +67,4 @@ Remember device? [Y]/[N]Y
 
 * **r1v3n** - [PragmaEdragon](https://github.com/PragmaEdragon)
 
+![MoreCmds](https://i.imgur.com/nKwswHg.jpg)
