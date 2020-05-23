@@ -8,7 +8,7 @@ To deploy the project, only 1 file should be launched, hinting at this - start_p
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+How to install project
 
 ```
 python root/<urpathhere>/start_project.py
