@@ -35,24 +35,24 @@ class ClientSocket(object):
 ```
 
 * [+] Server started
-* New connection from: ('127.0.0.1', 53042)
-* {'Connection1': ('127.0.0.1', 53042)}
-* New connection from: ('127.0.0.1', 53043)
-* {'Connection1': ('127.0.0.1', 53042), 'Connection2': ('127.0.0.1', 53043)}
-* New connection from: ('127.0.0.1', 53044)
-* {'Connection1': ('127.0.0.1', 53042), 'Connection2': ('127.0.0.1', 53043), 'Connection3': ('127.0.0.1', 53044)}
+  * New connection from: ('127.0.0.1', 53042)
+  * {'Connection1': ('127.0.0.1', 53042)}
+  * New connection from: ('127.0.0.1', 53043)
+  * {'Connection1': ('127.0.0.1', 53042), 'Connection2': ('127.0.0.1', 53043)}
+  * New connection from: ('127.0.0.1', 53044)
+  * {'Connection1': ('127.0.0.1', 53042), 'Connection2': ('127.0.0.1', 53043), 'Connection3': ('127.0.0.1', 53044)}
 
 * [!]Your login: login
-* [!]Your password: password
-* Input your auth token here: token
-* Remember device? [Y]/[N]Y
-* [+]User Username:0 offline now.
-* [+]User  Username:0 offline now.
-* [+]User  Username:0 offline now.
+  * [!]Your password: password
+  * Input your auth token here: token
+  * Remember device? [Y]/[N]Y
+  * [+]User Username:0 offline now.
+  * [+]User  Username:0 offline now.
+  * [+]User  Username:0 offline now.
 
 * [+]New message from: Username Text: Мур
-* [+]User  Username:0 offline now.
-* [+]User  Username:0 offline now.
+  * [+]User  Username:0 offline now.
+  * [+]User  Username:0 offline now.
 
 
 ## Built With
