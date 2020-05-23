@@ -1,3 +1,3 @@
 # Client-Server-VkMessageParse
 
-![MoreCmds]([img]https://i.imgur.com/nKwswHg.jpg[/img])
+![MoreCmds](https://i.imgur.com/nKwswHg.jpg)
